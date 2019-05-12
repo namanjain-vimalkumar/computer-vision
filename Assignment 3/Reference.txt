@@ -1,0 +1,11 @@
+extract_corners.m
+- https://tonypoer.io/2016/10/01/experimenting-with-the-harris-corner-detector-algorithm-in-matlab/
+- http://www.cse.psu.edu/~rtc12/CSE486/lecture06.pdf
+
+compute_homography
+- https://cseweb.ucsd.edu/classes/wi07/cse252a/homography_estimation/homography_estimation.pdf
+
+blend_images.m
+- http://graphics.cs.cmu.edu/courses/15-463/2005_fall/www/Lectures/Pyramids.pdf
+- https://www.cs.toronto.edu/~mangas/teaching/320/slides/CSC320L10.pdf
+- https://web.stanford.edu/class/cs231m/lectures/lecture-5-stitching-blending.pdf

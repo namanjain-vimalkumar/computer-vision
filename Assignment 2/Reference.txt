@@ -1,0 +1,7 @@
+http://www.aishack.in/tutorials/hough-transform-basics/
+http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/BMVA96Tut/node30.html
+https://www.khanacademy.org/partner-content/pixar/sets/rotation/v/set-7
+https://stackoverflow.com/questions/16974627/how-would-you-convert-x-y-points-to-rho-theta-for-hough-transform-in-c
+https://dsp.stackexchange.com/questions/30410/how-to-set-threshold-value-for-hough-transform
+
+http://pages.mtu.edu/~shene/COURSES/cs3621/NOTES/geometry/geo-tran.html
